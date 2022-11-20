@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+.env
+.env-dev
+.env-staging
+.env-pro
+deploy-dev.sh
+deploy-staging.sh
+deploy-pro.sh
+run-container.sh
